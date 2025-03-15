@@ -107,9 +107,7 @@ print "Data tidak ditemukan.";
 
 
 
-
-
-
+## Soal_2
 
 
 
