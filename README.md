@@ -209,6 +209,12 @@ done
 
 
 
+## Soal_2
+Pada soal ini, kita diminta membuat sistem pencatatan Player aktif agar terpisah dari Observer, dengan shell script:
+1. register.sh → Mendaftarkan Player baru menggunakan email, username, dan password, lalu menyimpannya di /data/player.csv.
+
+   ![Screenshot 2025-03-15 235839](https://github.com/user-attachments/assets/d143dc47-61a5-4cb9-b361-a646d2b32a9e)
+
 
 
 
